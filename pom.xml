@@ -12,6 +12,9 @@
         <module>platform-user</module>
         <module>platform-study</module>
         <module>platform-question</module>
+        <module>renren-fast-master</module>
+        <module>renren-generator</module>
+        <module>platform-common</module>
     </modules>
     <name>study-platform</name>
     <description>This project can help you pass java</description>
